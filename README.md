@@ -1,3 +1,5 @@
+![LinkedIn Banner](https://user-images.githubusercontent.com/17427142/227873330-4e1f2f6f-22d1-4149-8f3f-be7008badf68.png)
+
 ### Hi there! I'm Jennifer 👋
 ✨ I am a front-end Developer of web. I love learning new technology and skills and share my life.
 
