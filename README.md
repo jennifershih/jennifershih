@@ -1,4 +1,4 @@
-![LinkedIn Banner](https://user-images.githubusercontent.com/17427142/227873330-4e1f2f6f-22d1-4149-8f3f-be7008badf68.png)
+![for github-2](https://github.com/jennifershih/jennifershih/assets/17427142/9ef67448-d677-4432-9d7f-ca976a78fd90)
 
 ### Hi there! I'm Jennifer 👋
 ✨ I am a front-end Developer of web. I love learning new technology and skills and share my life.
