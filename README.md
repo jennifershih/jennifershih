@@ -3,7 +3,7 @@
 ### Hi there! I'm Jennifer 👋
 ✨ I am a front-end Developer of web. I love learning new technology and skills and share my life.
 
-## 💻 Goals of 2022
+## 💻 Goals of 2024
 ✨ I’m currently learning Python
 
 ## 📚 Languages and Frameworks
@@ -11,6 +11,8 @@
 ✨ Bootstrap<br>
 ✨ JavaScript, TypeScript<br>
 ✨ Python<br>
+✨ Appium<br>
+✨ k6<br>
 
 ## 🔗 Get in touch
 ✨ Reach me about anything [here](s01059810@gmail.com)<br>
