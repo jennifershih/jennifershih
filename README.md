@@ -1,6 +1,6 @@
 # Hi, I'm Mao-Yu (Jennifer) Shih 👋
 
-**QA Automation Engineer & Front-end Developer** — I build test automation that lets teams ship with confidence, and web apps that people actually use.
+**IT Software Engineer @ Micron** · background in QA automation and front-end development — I build test automation that lets teams ship with confidence, and web apps that people actually use.
 
 [![Medium](https://img.shields.io/badge/Blog-Medium-000000?logo=medium&logoColor=white)](https://s01059810.medium.com/)
 [![iThome](https://img.shields.io/badge/iThome-30--day%20series-0b5ed7)](https://ithelp.ithome.com.tw/users/20140883/ironman/4316)
@@ -12,7 +12,8 @@
 
 ## 🙋‍♀️ About me
 
-- 🔒 **Automation QA Developer @ WAFERLOCK** (2023–) — own testing for the Waferkey smart-lock app and the LiveAM cloud management system.
+- 💾 **IT Software Engineer @ Micron Technology 美光科技** (Sep 2024 – present, hybrid).
+- 🔒 **Automation QA Developer @ WAFERLOCK** (2023–2024) — own testing for the Waferkey smart-lock app and the LiveAM cloud management system.
 - ⚡ Built **k6 + Appium** test suites that cut manual testing time by **20%**, and wired them into **GitLab CI** with automatic reports — deployment time down **20%**.
 - 🚢 At **GoFreight**, wrote Python automation for sea & air freight systems and scheduled it with **Jenkins pipelines**.
 - 🌲 At **Digiwin**, introduced **Cypress** E2E tests that saved the team ~**10 hours a month**, and taught internal Cypress courses.
@@ -56,7 +57,7 @@
 
 ## 🇹🇼 關於我
 
-我是史卯郁，專長是自動化測試與前端開發。曾在 WAFERLOCK、GoFreight、鼎新等公司負責測試自動化，用 Cypress、Selenium、Appium、k6 把手動測試轉成自動化流程，並串接 GitLab CI 與 Jenkins；也曾以 Angular 開發智慧車隊管理平台與醫療相關 App。工作之外，我喜歡把學到的東西寫成文章，曾參加 iThome 鐵人賽連續 30 天分享自動化測試。
+我是史卯郁，目前在美光科技（Micron）擔任 IT Software Engineer（2024 年 9 月至今）。專長是自動化測試與前端開發，曾在 WAFERLOCK、GoFreight、鼎新等公司負責測試自動化，用 Cypress、Selenium、Appium、k6 把手動測試轉成自動化流程，並串接 GitLab CI 與 Jenkins；也曾以 Angular 開發智慧車隊管理平台與醫療相關 App。工作之外，我喜歡把學到的東西寫成文章，曾參加 iThome 鐵人賽連續 30 天分享自動化測試。
 
 ## 📊 GitHub stats
 
